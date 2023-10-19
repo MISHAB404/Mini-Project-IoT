@@ -2,7 +2,6 @@
 Efficiency, Control, and Sustainability in the Modern World.
 
 ## Introduction
-
 ```text
 Modern society places a high priority on the effective use of power. In this context,
 my research intends to address the problem of energy waste by presenting a
