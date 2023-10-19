@@ -1,7 +1,7 @@
 # Automatic Electricity Management System<br/> Using IoT⚡
 Efficiency, Control, and Sustainability in the Modern World.
 
-```text
+```text  
 ## Introduction 
 
 Modern society places a high priority on the effective use of power. In this context,
