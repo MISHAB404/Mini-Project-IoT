@@ -10,7 +10,7 @@ with open("coco.names.txt", "r") as f:
     classes = f.read().strip().split("\n")
 
 cap = cv2.VideoCapture(0)  
-nodeMCU_ip = "192.168.1.8"
+nodeMCU_ip = "nodemcu_ip_address"
 turn_on_route = "/turnOn"
 turn_off_route = "/turnOff"
 
